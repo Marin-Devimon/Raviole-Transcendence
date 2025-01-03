@@ -1,6 +1,6 @@
 id=Pixel6ProThermaLax
-name=OrioLax
-version=v15-beta
+name=Raviole-TRANSCENDENCE
+version=v15-2
 versionCode=2
 author=MarinDevimon
-description=Relaxed thermal throttling for Google Tensor based devices (Oriole) running Android 15.
+description=Increase temperature threshold for Google Tensor based devices (Raviole) running Android 15 with 5.10 Linux Kernel.
